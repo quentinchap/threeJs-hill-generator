@@ -48,9 +48,6 @@ class Hill{
         mesh.castShadow = true;
         mesh.receiveShadow = true;
 
-        mesh.position.set(-300, 0, 0);
-        mesh.scale.set(2, 1, 2);
-
         this.hill = mesh;
     }
 
