@@ -1,3 +1,3 @@
 # Hill generator
 
-Little piece of code that all to centralize th work around low poly hill
+Little piece of code to centralize the work around low poly hill
